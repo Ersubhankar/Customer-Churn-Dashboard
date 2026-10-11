@@ -98,5 +98,5 @@ Enriched the dataset by engineering high-value analytical features:
 ---
 
 ## 👤 Author
-* **Role:** Data Science & Analytics Student
-* **GitHub Profile:** [Your GitHub Profile Link](https://github.com/your-username)
+* Name: Subhankar Panda
+* GitHub Profile: 
